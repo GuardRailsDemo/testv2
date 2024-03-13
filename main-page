@@ -1,0 +1,5 @@
+def example_function():
+    # Debugging print statement
+    print("Debugging information: Hello, world!")
+
+example_function()
